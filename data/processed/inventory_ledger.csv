@@ -1,0 +1,11 @@
+part_id,description,location,stock_on_hand,min_threshold,unit_cost_zar,weight_kg
+HYD-2005,High-Pressure Hydraulic Pump,Kolomela,0,5,24500.0,45.0
+HYD-2005,High-Pressure Hydraulic Pump,Sishen,8,5,24500.0,45.0
+CRSH-9011,Crusher Liner Segment,Saldanha,0,2,35000.0,1200.0
+CRSH-9011,Crusher Liner Segment,Central WH,4,2,35000.0,1200.0
+SEN-4022,Conveyor Speed Sensor,Thabazimbi,0,10,4200.0,2.0
+SEN-4022,Conveyor Speed Sensor,Sishen,13,10,4200.0,2.0
+SEN-4022,Conveyor Speed Sensor,Kolomela,15,10,4200.0,2.0
+FLT-8810,Heavy Fuel Filter Assembly,Sishen,0,10,6500.0,12.0
+FLT-8810,Heavy Fuel Filter Assembly,Kolomela,14,10,6500.0,12.0
+VALV-102,Flow Control Valve,Sishen,45,15,800.0,5.0
